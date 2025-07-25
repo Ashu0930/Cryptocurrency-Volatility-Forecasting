@@ -7,9 +7,9 @@ This project forecasts 7-day rolling volatility of cryptocurrencies using histor
 - ⚙️ **Features**: Returns, ATR, Bollinger Bands, Liquidity Ratio  
 - 🤖 **Model**: XGBoost Regressor with engineered features  
 - 📈 **Performance**:
-  - MAE ≈ 0.016  
-  - RMSE ≈ 0.022  
-  - R² ≈ 0.84  
+  - MAE ≈ 0.020998 
+  - RMSE ≈ 0.056805  
+  - R² ≈ 0.2182
 
 ## 🧰 Tech Stack
 
